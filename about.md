@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello, my name is Boufnichel. I am a blogger. 
+This is my blog, where I post my ideas, project and tips about the SAP hybris and DevOps world. Never miss out on new stuff.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[boufnichel.mohamed@gmail.com](mailto:boufnichel.mohamed@gmail.com)

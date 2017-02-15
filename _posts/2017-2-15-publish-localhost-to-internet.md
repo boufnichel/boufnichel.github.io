@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Export my local hybris site to internet
+title: Hybris hack : publishing my localhost...
 ---
 
 I can't test the connection with the PSP (payment service provider) since my hybris site is local and the server need a public ip to respond...
@@ -15,10 +15,11 @@ on the internet, here is 3 examples for example :
 2. [forward hq](https://forwardhq.com/)
 3. [beame.io](https://www.beame.io/insta-ssl.html)
 
-here an example of use :
+Here is an example of use :
+
 ![_config.yml]({{ site.baseurl }}/images/tunneling.gif)
 
-please share and enjoy !
+Please share and enjoy !
 
 Warning : use this for dev purposes only ;)
 

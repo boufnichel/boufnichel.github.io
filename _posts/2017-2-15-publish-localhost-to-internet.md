@@ -9,17 +9,17 @@ title: Hybris hack : publishing my localhost...
 
 I have heard all these speeches during my last 5 years with Hybris and since i'm  not a google CTO who have 25% of his time to do r&d stuff...
 Recently i've discover that we was living on a IT hell all this time and there are a huge number of open source solution that allow localhost publishing
-on the internet, here is 3 examples for that :
+on the internet, here is 3 examples for solutions that allow this :
 
-1. [ngrok](https://ngrok.com/)
-2. [forward hq](https://forwardhq.com/)
-3. [beame.io](https://www.beame.io/insta-ssl.html)
+1. [ngrok](https://ngrok.com/) : free
+2. [forward hq](https://forwardhq.com/) : commmercial
+3. [beame.io](https://www.beame.io/insta-ssl.html) : opensource
 
-Here is an example of use :
+And following an example of use :
 
 ![_config.yml]({{ site.baseurl }}/images/tunneling.gif)
 
 Please share and enjoy !
 
-Warning : use this for dev purposes only ;)
+**Warning** : use this for dev purposes only ;)
 

@@ -9,7 +9,7 @@ title: Hybris hack : publishing my localhost...
 
 I have heard all these speeches during my last 5 years with Hybris and since i'm  not a google CTO who have 25% of his time to do r&d stuff...
 Recently i've discover that we was living on a IT hell all this time and there are a huge number of open source solution that allow localhost publishing
-on the internet, here is 3 examples for example :
+on the internet, here is 3 examples for that :
 
 1. [ngrok](https://ngrok.com/)
 2. [forward hq](https://forwardhq.com/)

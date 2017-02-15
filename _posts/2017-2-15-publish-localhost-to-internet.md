@@ -11,9 +11,9 @@ I have heard all these speeches during my last 5 years with Hybris and since i'm
 Recently i've discover that we was living on a IT hell all this time and there are a huge number of open source solution that allow localhost publishing
 on the internet, here is 3 examples for solutions that allow this :
 
-1. [ngrok](https://ngrok.com/) : free
-2. [forward hq](https://forwardhq.com/) : commmercial
-3. [beame.io](https://www.beame.io/insta-ssl.html) : opensource
+1. [ngrok](https://ngrok.com/) : Free
+2. [forward hq](https://forwardhq.com/) : Business
+3. [beame.io](https://www.beame.io/insta-ssl.html) : Opensource
 
 And following an example of use :
 

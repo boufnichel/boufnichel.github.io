@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hybris hack : publishing my localhost...
+title: Hybris hack...publish your hybris localhost
 ---
 
 I can't test the connection with the PSP (payment service provider) since my hybris site is local and the server need a public ip to respond...
